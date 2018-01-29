@@ -28,13 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/2EfIFyk.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pZ4Zo"><a href="//imgur.com/pZ4Zo">Tip Calculator</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Had to install OSX using a virtual machine on my laptop and then configure xcode to properly sync with my project I had started previosly in class
+
 Went smoothly enough, but took up most of my time
 
 
