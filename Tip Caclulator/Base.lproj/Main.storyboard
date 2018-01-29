@@ -6,7 +6,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Tip Calculator-->
+        <!--Tippy-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Tip_Caclulator" customModuleProvider="target" sceneMemberID="viewController">
@@ -54,7 +54,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" id="1LD-AF-jGG">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" selected="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" id="1LD-AF-jGG">
                                 <frame key="frameInset" minX="197" minY="91" width="162" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -83,7 +83,7 @@
                             <outletCollection property="gestureRecognizers" destination="C1X-kY-YzL" appends="YES" id="3mO-Cq-8Ng"/>
                         </connections>
                     </view>
-                    <navigationItem key="navigationItem" title="Tip Calculator" id="1FR-1E-xcG"/>
+                    <navigationItem key="navigationItem" title="Tippy" id="1FR-1E-xcG"/>
                     <connections>
                         <outlet property="billField" destination="1LD-AF-jGG" id="Gib-ck-yJO"/>
                         <outlet property="tipControl" destination="MtD-9r-Na8" id="wwR-4l-U4X"/>
